@@ -1,0 +1,20 @@
+init : A
+accept: F
+
+A, a, A, a,>
+
+B, a,B,a,>
+
+A,b,B,b,>
+
+B,b,A,b,>
+
+A,c,A,c,>
+
+B,c,B,c,>
+
+A,d,A,d,>
+
+B, d, B, d, > 
+
+B, ,F, ,-
